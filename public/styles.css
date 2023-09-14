@@ -1289,6 +1289,10 @@ video {
     background-color: rgb(15 23 42 / var(--tw-bg-opacity));
   }
 
+  .dark\:fill-gray-300 {
+    fill: #d1d5db;
+  }
+
   .dark\:text-gray-300 {
     --tw-text-opacity: 1;
     color: rgb(209 213 219 / var(--tw-text-opacity));
