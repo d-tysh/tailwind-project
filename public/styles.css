@@ -621,6 +621,11 @@ video {
   margin-bottom: 1.25rem;
 }
 
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .mb-1 {
   margin-bottom: 0.25rem;
 }
@@ -1349,6 +1354,10 @@ video {
     margin-left: auto;
   }
 
+  .lg\:ml-4 {
+    margin-left: 1rem;
+  }
+
   .lg\:block {
     display: block;
   }
@@ -1388,5 +1397,9 @@ video {
   .lg\:border-gray-200 {
     --tw-border-opacity: 1;
     border-color: rgb(229 231 235 / var(--tw-border-opacity));
+  }
+
+  .lg\:pr-4 {
+    padding-right: 1rem;
   }
 }
