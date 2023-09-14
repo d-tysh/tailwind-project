@@ -1,4 +1,7 @@
 {
+  "name": "tailwind-project",
+  "version": "0.1.0",
+  "homepage": "https://d-tysh.github.io/tailwind-project/",
   "devDependencies": {
     "postcss": "^8.4.29",
     "tailwindcss": "^3.3.3"
